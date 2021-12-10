@@ -18,8 +18,7 @@
  
 ### My Github Status:
 ![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-youngeunlee&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luna-youngeunlee)](https://github.com/luna-youngeunlee/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luna-youngeunlee&layout=compact)](https://github.com/luna-youngeunlee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luna-youngeunlee&layout=compact)](https://github.com/luna-youngeunlee/github)
 
   
 ### My 백준 Ranking:
