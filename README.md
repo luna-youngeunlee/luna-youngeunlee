@@ -17,12 +17,12 @@
 - 💬 Ask me about anything, I am happy to help!
  
 ## My Github Status:
-![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-youngeunlee&show_icons=true&theme=radical)
+![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna.youngeunlee&show_icons=true)  
   
 ## My Algorithm Ranking:
 ![misolye9600 Solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=misolye9600)
 
-  
+  (https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
 
 <!---
 luna-youngeunlee/luna-youngeunlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
