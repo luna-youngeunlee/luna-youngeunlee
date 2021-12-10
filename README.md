@@ -6,12 +6,14 @@
 
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python3-3776AB?style=plastic&logo=appveyor&logoColor=3776AB"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=appveyor&logoColor=276DC3"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=appveyor&logoColor=E34F26"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=appveyor&logoColor=1572B6"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=appveyor&logoColor=339933"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=appveyor&logoColor=61DAFB"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=appveyor&logoColor=4479A1"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=appveyor&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML-white?style=plastic&logo=appveyor&logoColor=E34F26"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=appveyor&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=appveyor&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=appveyor&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=appveyor&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 ![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-youngeunlee&show_icons=true&theme=radical)
 
