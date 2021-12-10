@@ -17,7 +17,7 @@
 - 💬 Ask me about anything, I am happy to help!
  
 ## My Github Status:
-![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna.youngeunlee&show_icons=true)  
+![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-youngeunlee&show_icons=true)  
   
 ## My Algorithm Ranking:
 ![misolye9600 Solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=misolye9600)
