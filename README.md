@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me misolye9600@gmail.com
 
-[!misolye9600 Solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=misolye9600)
+![misolye9600 Solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=misolye9600)
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=3776AB"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
