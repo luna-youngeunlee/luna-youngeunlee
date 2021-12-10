@@ -1,4 +1,5 @@
 
+## Intro
 - 👋 Hi, I’m @luna-youngeunlee
 - 👀 I’m interested in Front-end, DX, Finance
 - 🌱 I’m currently learning Algorithms and Node.js
