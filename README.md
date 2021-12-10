@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luna-youngeunlee
-- 👀 I’m interested in Front-end
+- 👀 I’m interested in Front-end, DX, Finance
 - 🌱 I’m currently learning Algorithms and Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me misolye9600@gmail.com
