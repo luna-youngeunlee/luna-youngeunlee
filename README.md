@@ -9,17 +9,17 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?flat-square&logo=MySQL&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   
-## Glad to see you here!
+### Glad to see you here!
 🌱 I'm currently learning to grow into a digital transformation expert. I love and want to share programming.
   
 - 👀 I’m interested in Front-end, DX, Finance 
 - 💞️ I’m currently learning Algorithms and Node.js 
 - 💬 Ask me about anything, I am happy to help!
  
-## My Github Status:
+### My Github Status:
 ![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-youngeunlee&show_icons=true)  
   
-## 백준 Ranking:
+### 백준 Ranking:
 ![misolye9600 Solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=misolye9600)
 
 
