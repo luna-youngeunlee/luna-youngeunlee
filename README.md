@@ -1,3 +1,4 @@
+<div align=center>
 - 👋 Hi, I’m @luna-youngeunlee
 - 👀 I’m interested in Front-end, DX, Finance
 - 🌱 I’m currently learning Algorithms and Node.js
@@ -16,7 +17,8 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 ![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=luna-youngeunlee&show_icons=true&theme=radical)
-
+  
+</div>
 <!---
 luna-youngeunlee/luna-youngeunlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
